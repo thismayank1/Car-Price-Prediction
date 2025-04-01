@@ -50,7 +50,7 @@ streamlit run app.py
 ## 📊 Screenshots  
 | Home Page | Prediction Example |  
 |-----------|-------------------|  
-| (![Screenshot 2025-04-01 210538](https://github.com/user-attachments/assets/02b1d3f3-9116-4c7e-bb01-96272a8fa053)| (![Screenshot 2025-04-01 210646](https://github.com/user-attachments/assets/7f8bf111-c448-409a-aa55-bff7e70337f4) |  
+| ![Screenshot 2025-04-01 210538](https://github.com/user-attachments/assets/02b1d3f3-9116-4c7e-bb01-96272a8fa053)| [Screenshot 2025-04-01 210646](https://github.com/user-attachments/assets/7f8bf111-c448-409a-aa55-bff7e70337f4) |  
 
 ---
 
