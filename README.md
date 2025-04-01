@@ -1,6 +1,3 @@
-﻿# Car-Price-Prediction
-
- App Link 🔗 https://mayank-car-price-prediction.streamlit.app/
 
  # 🚗 Car Price Prediction using Machine Learning  
 
@@ -53,7 +50,7 @@ streamlit run app.py
 ## 📊 Screenshots  
 | Home Page | Prediction Example |  
 |-----------|-------------------|  
-| ![Home](https://via.placeholder.com/300x200) | ![Prediction](https://via.placeholder.com/300x200) |  
+| ![Home](![Screenshot 2025-04-01 210538](https://github.com/user-attachments/assets/02b1d3f3-9116-4c7e-bb01-96272a8fa053)) | ![Prediction](![Screenshot 2025-04-01 210646](https://github.com/user-attachments/assets/7f8bf111-c448-409a-aa55-bff7e70337f4)) |  
 
 ---
 
